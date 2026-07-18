@@ -44,7 +44,7 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
+		 <p>(+91) 9287-6543</p>
 		 <p>muhammadaminaamir@gmail.com</p>
 		</div>
 		
