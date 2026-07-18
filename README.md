@@ -34,7 +34,7 @@ The app renders a single-page layout for a fictional premium cocktail bar called
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 | Technology | Version | Role |
 |---|---|---|
